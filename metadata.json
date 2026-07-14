@@ -1,0 +1,6 @@
+{
+  "name": "Passport Photo Maker (4x6)",
+  "description": "A professional tool to create a 4x6 inch passport photo sheet with precise borders and gaps, ready for high-resolution printing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
